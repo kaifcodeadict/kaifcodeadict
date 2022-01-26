@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mohammed kaif
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end development
+- 🌱 Make Idea's Alive
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me - mail mohammedkaif3555@gmail.com
 
