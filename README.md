@@ -1,5 +1,6 @@
 - 👋 Hi, I’m mohammed kaif
-- 👀 Self Taught, #M-E-R-N Stack Developer
+- 👀 Self Taught, [Resume.55d4279458bed18320ee.pdf](https://github.com/kaifcodeadict/kaifcodeadict/files/8086628/Resume.55d4279458bed18320ee.pdf)
+M-E-R-N Stack Developer
 -   Open For Work
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me - mail mohammedkaif3555@gmail.com
